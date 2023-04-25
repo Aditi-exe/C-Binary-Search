@@ -180,7 +180,7 @@ int Binary(int a[], int element, int n)
 }
 ```
 
-### Output:
+### Outputs:
 
 ![binarySearch.c output](https://github.com/Aditi-exe/C-Binary-Search/blob/main/binarySearch.png)
 
