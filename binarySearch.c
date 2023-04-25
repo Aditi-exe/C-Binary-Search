@@ -1,4 +1,4 @@
-// implementng binary search
+// implementing binary search
 
 #include <stdio.h>
 
