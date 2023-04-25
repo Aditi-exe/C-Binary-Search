@@ -50,6 +50,10 @@ The program in this repository demonstrates binary search by first sorting the g
 
 Bubble sort is a simple sorting algorithm that repeatedly steps through a list of elements, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
+Bubble sort can be represented as follows:
+
+![Bubble Sorting procedure](http://www.computersciencebytes.com/wp-content/uploads/2016/10/bubble_sort.png)
+
 Algorithm for bubble sort:
 1. Start at the beginning of the list and compare the first two elements.
 2. If the first element is greater than the second element, swap them.
